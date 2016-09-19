@@ -14,6 +14,9 @@ go get github.com/alfg/asciicat
 -w - Width of output.
 ```
 
+## Example
+![](screenshot.png)
+
 ## License
 MIT
 

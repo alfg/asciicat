@@ -2,13 +2,21 @@
 Simple Image to ASCII Art Conversion Tool. Written in Go!
 
 ## Install
+
+[Homebrew](http://brew.sh/):
+```
+brew tap alfg/tap
+brew install asciicat
+```
+
+Or using Go:
 ```
 go get github.com/alfg/asciicat
 ```
 
 ## Usage
 ```
-./asciicat -i gopher.png
+asciicat -i gopher.png
 
 -i - Relative path to image file.
 -w - Width of output.

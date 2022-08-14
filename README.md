@@ -11,7 +11,7 @@ brew install asciicat
 
 Or using Go:
 ```
-go get github.com/alfg/asciicat
+go install github.com/alfg/asciicat@latest
 ```
 
 ## Usage
